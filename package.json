@@ -1,0 +1,21 @@
+{
+  "name": "moondust",
+  "displayName": "Velvet Nebula",
+  "description": "Velvet Nebula is a dark and elegant purple theme crafted for late-night coding sessions and deep focus.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.109.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Velvet Nebula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Velvet Nebula-color-theme.json"
+      }
+    ]
+  }
+}
