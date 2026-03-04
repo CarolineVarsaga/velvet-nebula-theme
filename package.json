@@ -1,14 +1,36 @@
 {
-  "name": "moondust",
+  "name": "velvet-nebula",
   "displayName": "Velvet Nebula",
   "description": "Velvet Nebula is a dark and elegant purple theme crafted for late-night coding sessions and deep focus.",
   "version": "0.0.1",
+  "publisher": "moondust",
   "engines": {
     "vscode": "^1.109.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "dark theme",
+    "night mode",
+    "night",
+    "dark mode",
+    "purple theme",
+    "purple",
+    "velvet nebula",
+    "velvet",
+    "velvet theme",
+    "nebula theme",
+    "nebula",
+    "galaxy theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarolineVarsaga/velvet-nebula-theme.git"
+  },
   "contributes": {
     "themes": [
       {
